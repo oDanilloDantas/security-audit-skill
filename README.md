@@ -11,7 +11,7 @@ Esta skill é uma referência operacional pra equipes brasileiras que querem aud
 
 ```bash
 # 1. Clone num local que o Claude Code reconheça como skills folder
-git clone https://github.com/danillodantas/security-audit-skill ~/.claude/skills/security-audit
+git clone https://github.com/oDanilloDantas/security-audit-skill ~/.claude/skills/security-audit
 
 # 2. Instale ferramentas externas (gitleaks, trivy, semgrep, etc.)
 cd ~/.claude/skills/security-audit
